@@ -3,7 +3,7 @@ import { exec, execSafe, debugLog, shq } from './KernelSU.js'
 
 const TAG = 'MicroG.js'
 
-const GITHUB_API = 'https://api.github.com/repos/microg/GmsCore/releases'
+const GITHUB_API = 'https://api.github.com/repos/arskyn/microG_no_sigspoof/releases'
 
 export async function fetchReleases() {
   await debugLog(TAG, 'fetchReleases: calling GitHub API')
