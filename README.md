@@ -42,6 +42,6 @@ If you'd like to help translate the WebUI into your language, please fork the re
 
 ### Credits
 - **[microG Project](https://microg.org)** for the core GmsCore implementation.
-- **[nift4](https://github.com/nift4/microg_installer_revived)** for the original module.
+- **[nift4](https://github.com/nift4/microg_installer_revived)** and **[spacealtctrl](https://github.com/spacealtctrl/microg_installer_revived_again)** for the original module.
 - **Hieu Van** 
-- **All Telegram community members for testing and feedback.
+- **All Telegram community members for testing and feedback.**
