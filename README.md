@@ -1,6 +1,3 @@
-[![Telegram](https://img.shields.io/badge/Telegram-microGRevivedAgain-blue?logo=telegram)](https://t.me/microGRevivedAgain)
-[![Website](https://img.shields.io/badge/Website-spacealtctrl.net-blue?logo=firefoxbrowser&logoColor=white)](https://spacealtctrl.net)
-
 # microG Installer Revived… again
 
 ---
@@ -8,8 +5,6 @@
 A Magisk / KernelSU module that converts patched microG GmsCore (to avoid signature spoofing) into a system-level app to improve Play Integrity behavior and testing on custom or rooted devices.
 
 This module improves how microG interacts with the Android system by converting the `GmsCore` and `Companion` apps into privileged system-level apps (`priv-app`).
-
-> If this module helps you, please consider sharing your Play Integrity results in the [Telegram Results Group](https://t.me/microGRevivedAgainResults).
 
 ---
 
@@ -29,14 +24,6 @@ This module improves how microG interacts with the Android system by converting 
 2. Reboot your device.
 3. **KernelSU Users**: Open the KernelSU app, navigate to the Modules tab, and tap the module to open the WebUI. From here you can check status, manage updates, and access logs (if enabled).
 4. **Magisk Users**: I suggest using [WebUI X](https://github.com/MMRLApp/WebUI-X-Portable) to interact with the module's interface.
-
----
-
-### Support & Contributions
-
-If you have/find a bug, please turn on "Debug logging" in the WebUI Settings, reproduce the issue, check the **Logs** tab, and copy the output into a new [GitHub Issue](https://github.com/spacealtctrl/microg_installer_revived_again/issues).
-
-If you'd like to help translate the WebUI into your language, please fork the repository and see the `webui/src/locales/` directory!
 
 ---
 
